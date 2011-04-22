@@ -16,7 +16,8 @@ function parse_git_branch {
 
 # aliases:
 alias sbp="source ~/.bash_profile"
-
+alias go2cweb="cd ~/Projects/visionaires/casorio_web"
+alias go2config="cd ~/Projects/diversos/configuration_files"
 
 
 # rvm
